@@ -21,3 +21,5 @@ az irányt jobb vagy bal irányba vigyem
 de ennek nem kell autopilotnak lennie.ezt a saját tával szeretném irányittani
 csak lássam a pozicioját és kb 6 etetöhej lenne elmenthetö és más tavakon felül irhato.
 Segitséget megköszönöm.
+elérhető jozsef.gerlinger@gmail.com
+
